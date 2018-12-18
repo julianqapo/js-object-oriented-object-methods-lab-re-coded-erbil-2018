@@ -5,6 +5,7 @@ function BoardMember(name, homeState,training){
   this.veto = function(){
     console.log("No, I must disagree")
   }
+  /*
   this.approve = function(){
     console.log("You can do that!")
   }
@@ -17,5 +18,5 @@ function BoardMember(name, homeState,training){
   this.sayHi = function(){
     console.log(`Hi, my name is ${'name'}. I am from ${'homestate'}, and I was trained in ${'training'}.`)
   }
-
+*/
 }
