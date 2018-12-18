@@ -19,3 +19,5 @@ function BoardMember(name, homeState,training){
   }
 */
 }
+
+let user = new BoardMember("Mr. Polished", "New York", "law")
